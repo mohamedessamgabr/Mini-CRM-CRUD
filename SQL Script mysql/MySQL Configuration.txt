@@ -1,0 +1,4 @@
+MySQL Configuration:
+Database name = web_customer_tracker
+user = springstudent
+password = springstudent

@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="customer_tracker">
+    <output-path>$PROJECT_DIR$/classes/artifacts/customer_tracker</output-path>
+    <root id="archive" name="customer_tracker.ear" />
+  </artifact>
+</component>
